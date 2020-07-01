@@ -9,3 +9,4 @@ Steps to run:
 
 3] npx serve in cmd
 
+4] open the local host.
